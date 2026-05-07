@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **up250594qgp/up250594qgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
