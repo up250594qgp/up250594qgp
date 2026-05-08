@@ -1,4 +1,7 @@
-Hi there 👋
+## Ingeniería en Tecnologías de la Información e Innovación Digital
+### Paulina Quevedo Gámez
+### Viva la Universidad Politecnica de Aguascalientes
+![LOGO](https://play-lh.googleusercontent.com/r1-SYImWLlDnr3ahAB3QZBofNablcaEhVzoAJt2xBV71BAZrrnUatY-5J1L-fNVpDW8TMcEFJSPbbe4d_s046A)
 
 <!--
 **up250594qgp/up250594qgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
